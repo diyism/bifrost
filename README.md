@@ -1,3 +1,5 @@
+    不支持把nvidia nim的 openai chat格式转化为 openai response格式, 只好改用: https://github.com/diyism/litellm
+
 # Bifrost AI Gateway
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/maximhq/bifrost/core)](https://goreportcard.com/report/github.com/maximhq/bifrost/core)

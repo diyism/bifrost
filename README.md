@@ -1,5 +1,5 @@
     不支持把nvidia nim的 openai chat格式转化为 openai response格式,
-    而codex desktop最新版已经不支持在~/.codex/config.toml的provider里写wire_api="chat",
+    而codex desktop最新版已经不支持在~/.codex/config.toml的provider里写wire_api="chat"(默认只有wire_api="responses"),
     只好改用: https://github.com/diyism/litellm
 
 # Bifrost AI Gateway
